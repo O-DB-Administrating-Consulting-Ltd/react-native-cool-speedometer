@@ -10,7 +10,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "react-native-svg": "15.2.0"
+    "react-native-svg": "15.11.2"
   },
   "repository": {
     "type": "git",
